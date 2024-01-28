@@ -50,7 +50,19 @@ const ShuffleHero = () => {
           </a>
         </div>
       </motion.div>
-      <ShuffleGrid />
+      {/* <ShuffleGrid /> */}
+      <div className="grid grid-cols-4 grid-rows-4 h-[450px] gap-1">
+        {squareData.map((data) => (
+          <div
+            key={data.id}
+            className="w-full h-full"
+            style={{
+              backgroundImage: `url(${data.src})`,
+              backgroundSize: "cover",
+            }}
+          ></div>
+        ))}
+      </div>
     </section>
   );
 };
