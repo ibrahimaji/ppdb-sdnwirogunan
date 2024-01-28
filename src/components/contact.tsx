@@ -48,7 +48,7 @@ export const Contact = () => {
             <strong>Ada pertanyaan?</strong> Kirim pesan WhatsApp pada kontak
             berikut
             <div className="flex items-center justify-around flex-wrap md:flex-nowrap px-5 py-5">
-              {/*             <WhatsAppButton
+              <WhatsAppButton
                 phoneNumber="+6281334140664"
                 contactName="Bu Fitri"
               />
@@ -56,7 +56,6 @@ export const Contact = () => {
                 phoneNumber="+6281335368038"
                 contactName="Bu Ratna"
               />
-              */}
             </div>
           </div>
         </div>
