@@ -29,7 +29,7 @@ const ShuffleHero = () => {
             Dengan ilmu, kita menuju kemuliaan
           </motion.span>
           <motion.h3
-            className="text-4xl md:text-6xl font-semibold"
+            className="text-xl md:text-6xl font-semibold"
             variants={FADE_DOWN_ANIMATION_VARIANTS}
           >
             Selamat Datang di Website PPDB
@@ -75,67 +75,67 @@ const shuffle = (array: (typeof squareData)[0][]) => {
 const squareData = [
   {
     id: 1,
-    src: "/1.jpg",
+    src: "/1.webp",
   },
   {
     id: 2,
-    src: "/2.jpg",
+    src: "/2.webp",
   },
   {
     id: 3,
-    src: "/3.jpg",
+    src: "/3.webp",
   },
   {
     id: 4,
-    src: "/4.jpg",
+    src: "/4.webp",
   },
   {
     id: 5,
-    src: "/5.jpg",
+    src: "/5.webp",
   },
   {
     id: 6,
-    src: "/6.jpg",
+    src: "/6.webp",
   },
   {
     id: 7,
-    src: "/7.jpg",
+    src: "/7.webp",
   },
   {
     id: 8,
-    src: "/8.jpg",
+    src: "/8.webp",
   },
   {
     id: 9,
-    src: "/9.jpg",
+    src: "/9.webp",
   },
   {
     id: 10,
-    src: "/10.jpg",
+    src: "/10.webp",
   },
   {
     id: 11,
-    src: "/11.jpg",
+    src: "/11.webp",
   },
   {
     id: 12,
-    src: "/12.jpg",
+    src: "/12.webp",
   },
   {
     id: 13,
-    src: "/13.jpg",
+    src: "/13.webp",
   },
   {
     id: 14,
-    src: "/14.jpg",
+    src: "/14.webp",
   },
   {
     id: 15,
-    src: "/15.jpg",
+    src: "/15.webp",
   },
   {
     id: 16,
-    src: "/16.jpg",
+    src: "/16.webp",
   },
 ];
 
@@ -144,7 +144,7 @@ const generateSquares = () => {
     <motion.div
       key={sq.id}
       layout
-      transition={{ duration: 1.5, type: "spring" }}
+      transition={{ duration: 3, type: "spring" }}
       className="w-full h-full"
       style={{
         backgroundImage: `url(${sq.src})`,

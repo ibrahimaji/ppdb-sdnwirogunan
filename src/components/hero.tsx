@@ -13,7 +13,7 @@ export const Hero = () => {
           height={600}
         />
         <div className="text-center lg:w-2/3 w-full">
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+          <h1 className="title-font  md:text-2xl mb-4 font-medium text-gray-900">
             Selamat Datang di Website PPDB UPT SDN Wirogunan Kota Pasuruan
           </h1>
           <p className="mb-8 leading-relaxed">

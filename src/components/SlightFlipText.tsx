@@ -7,7 +7,7 @@ export function SlightFlip() {
     visible: { rotateX: 0, opacity: 1 },
   };
   return (
-    <div className="flex space-x-2 justify-center">
+    <div className="space-x-2 justify-center">
       <AnimatePresence>
         {word.split("").map((char, i) => (
           <motion.span
