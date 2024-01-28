@@ -1,8 +1,8 @@
 "use client";
+import ShuffleHero from "@/components/ShuffleHero";
 import { Contact } from "@/components/contact";
 import { Content } from "@/components/content";
 import { Gallery } from "@/components/gallery";
-import { Hero } from "@/components/hero";
 import { motion, AnimatePresence } from "framer-motion";
 
 export default function Home() {
@@ -16,7 +16,7 @@ export default function Home() {
         transition={{ duration: 1 }}
         viewport={{ once: true }}
       >
-        <Hero />
+        <ShuffleHero />
       </motion.div>
       <motion.div
         initial={{ opacity: 0 }}
