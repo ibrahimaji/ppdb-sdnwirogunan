@@ -20,20 +20,21 @@ export const Gallery = () => {
               <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="/ppdb.jpg"
+                src="/drumband.jpg"
                 width={600}
                 height={360}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  DRUMBAND
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Shooting Stars
+                  Berirama, Bersama Berkolaborasi!
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Anak dapat belajar berkolaborasi, mengasah keterampilan
+                  motorik, membangun disiplin, mengungkapkan kreativitas, dan
+                  membentuk persahabatan yang kuat
                 </p>
               </div>
             </div>
@@ -43,20 +44,21 @@ export const Gallery = () => {
               <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="/ppdb.jpg"
+                src="/membatik.jpg"
                 width={601}
                 height={361}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  MEMBATIK
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  The Catalyzer
+                  Terinspirasi oleh Karya Seni!
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Dengan membatik, anak dapat mengembangkan keterampilan
+                  feinsmotorik, menghargai warisan budaya dan melatih kerja
+                  keras serta kesabaran.
                 </p>
               </div>
             </div>
@@ -66,20 +68,21 @@ export const Gallery = () => {
               <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="/ppdb.jpg"
+                src="/mendongeng.jpg"
                 width={603}
                 height={363}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  MENDONGENG
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  The 400 Blows
+                  Masuki Dunia Dongeng!
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Mendongeng dapat menumbuhkan imajinasi anak, mengembangkan
+                  keterampilan bicara, dan belajar nilai - nilai moral yang
+                  positif.
                 </p>
               </div>
             </div>
@@ -89,20 +92,20 @@ export const Gallery = () => {
               <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="/ppdb.jpg"
+                src="/pencak.jpg"
                 width={602}
                 height={362}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  PENCAK SILAT
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Neptune
+                  Menjadi Pahlawan Sejati!
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Anak dapat mengembangkan keterampilan bela diri, meningkatkan
+                  kesehatan tubuh, serta memperkuat kedisiplinan dan etika
                 </p>
               </div>
             </div>
@@ -112,20 +115,21 @@ export const Gallery = () => {
               <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="/ppdb.jpg"
+                src="/pramuka.jpg"
                 width={605}
                 height={365}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  PRAMUKA
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Holden Caulfield
+                  Menjadi Pahlawan Lingkungan!
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Anak akan memasuki dunia petualangan yang luar biasa dalam
+                  melatih kemandirian dan keterampilan serta kepedulian pada
+                  lingkungan
                 </p>
               </div>
             </div>
@@ -135,66 +139,21 @@ export const Gallery = () => {
               <Image
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="/ppdb.jpg"
+                src="/tari.jpg"
                 width={606}
                 height={366}
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  MENARI
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Alper Kamu
+                  Menggali Bakat dan Ekspresi!
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="lg:w-1/2 sm:w-1/2 md:py-4 md:px-32 p-4">
-            <div className="flex relative">
-              <Image
-                alt="gallery"
-                className="absolute inset-0 w-full h-full object-cover object-center"
-                src="/ppdb.jpg"
-                width={606}
-                height={366}
-              />
-              <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-                <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
-                </h2>
-                <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Alper Kamu
-                </h1>
-                <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="lg:w-1/2 sm:w-1/2 md:py-4 md:px-32 p-4">
-            <div className="flex relative">
-              <Image
-                alt="gallery"
-                className="absolute inset-0 w-full h-full object-cover object-center"
-                src="/ppdb.jpg"
-                width={606}
-                height={366}
-              />
-              <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-                <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
-                </h2>
-                <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Alper Kamu
-                </h1>
-                <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Menari lebih dari sekedar gerakan, tetapi juga sebagai bentuk
+                  ekspresi diri, mengasah keterampilan serta menghadirkan
+                  kegembiraan.
                 </p>
               </div>
             </div>
