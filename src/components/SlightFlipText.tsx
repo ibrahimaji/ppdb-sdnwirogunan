@@ -17,7 +17,7 @@ export function SlightFlip() {
             exit="hidden"
             variants={variants1}
             transition={{ duration: 0.5, delay: i * 0.2 }}
-            className="text-center font-display text-xl font-bold tracking-[-0.02em] drop-shadow-sm md:text-6xl md:leading-[5rem] text-black"
+            className="text-center font-display font-bold tracking-[-0.02em] drop-shadow-sm md:text-6xl md:leading-[5rem] text-black"
             style={{ transformOrigin: "50% 50%" }}
           >
             {char}
